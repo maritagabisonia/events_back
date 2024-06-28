@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "V1EVGPU847HK9A6wETDVPUdbPhmTbD2GUDNQbAvoqjw=",
+  "Source": "usermangment.API",
+  "BasePath": "_content/usermangment.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
